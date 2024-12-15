@@ -1,0 +1,10 @@
+ID: CO1000
+Bar Code: 234_123_932
+Brand name: COCA_COLA
+Name Product: CoCa
+Category : Drink
+Made in: Cambodia
+Manufactured Date: 20/04/2022
+Expiry Date: 20/10/2022
+Counts: 1000
+Price per product($): 10

@@ -1,0 +1,10 @@
+ID: A2000
+BarCode: 253_345_234
+Brand name: Apple
+Name Product: Ipad
+Category : Tablet
+Made in: USA
+Manufactured Date: 30/09/2022
+Expiry Date: 00/00/00
+Counts: 2000
+Price per product: 780

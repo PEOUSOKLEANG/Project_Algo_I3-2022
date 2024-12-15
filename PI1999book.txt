@@ -1,0 +1,6 @@
+ID: PI1999
+Book Title: 3 people 3 ideas
+Book ISBN: 124_123_334
+Author: Smith
+Public Year: 1999
+Price($): 50

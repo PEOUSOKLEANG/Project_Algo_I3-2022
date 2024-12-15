@@ -1,0 +1,10 @@
+ID: IA5000
+BarCode: 234_2323_234
+Brand name: Apple
+Name Product: Ipad
+Category : tablet
+Made in: USA
+Manufactured Date: 23/09/2020
+Expiry Date: 00/00/00
+Counts: 5000
+Price per product($): 500

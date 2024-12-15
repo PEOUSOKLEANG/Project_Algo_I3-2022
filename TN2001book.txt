@@ -1,0 +1,6 @@
+ID: TN2001
+Book Title: The Night
+Book ISBN: 234_237_234
+Author: Jame
+Public Year: 2001
+Price($): 30

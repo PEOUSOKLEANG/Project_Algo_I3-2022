@@ -1,0 +1,10 @@
+ID: A1000
+Bar Code: 234_234_232
+Brand name: Apple
+Name Product: Iphone
+Category : phone
+Made in: USA
+Manufactured Date: 23/03/2021
+Expiry Date: 00/00/00
+Counts: 1000
+Price per product: 890
